@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "server": "nodemon index.js"
   },
-  "repository": "https://github.com/LambdaSchool/webdb-i-challenge",
+  "repository": "https://github.com/ola-dola/webdb-i-challenge",
   "dependencies": {
     "express": "^4.17.1",
     "knex": "^0.20.1",
